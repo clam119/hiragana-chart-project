@@ -92,7 +92,7 @@ for (var i = 0; i < numberOfKanaButtons; i++) {
                 break;
 
             case "つ":
-                var tsuKana = new Audio('sounds/.mp3');
+                var tsuKana = new Audio('sounds/tsu.mp3');
                 tsuKana.play();
                 break;
 
