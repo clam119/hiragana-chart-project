@@ -243,27 +243,6 @@ for (var i = 0; i < numberOfKanaButtons; i++) {
                 break;
         }
 
-
-
-
-
     });
 
 };
-
-// function KanaAudioConstructorArray(character, audioFile){
-//     this.character = character;
-//     this.audioFile = audioFile;
-// }
-//     var kanaArrayLength = KanaAudioConstructorArray.length;
-//     var aKana = new KanaAudioConstructorArray("あ", 'sounds/a.mp3');
-//     var iKana = new KanaAudioConstructorArray("い", 'sounds/i.mp3');
-//     var uKana = new KanaAudioConstructorArray("う", 'sounds/u.mp3');
-//     var eKana = new KanaAudioConstructorArray("え", 'sounds/e.mp3');
-//     var oKana = new KanaAudioConstructorArray("お", 'sounds/o.mp3');
-
-//         for (var i = 0; i < kanaArrayLength; i++){
-//             if(i = KanaAudioConstructorArray[i]){
-//                 KanaAudioConstructorArray[i].play();
-//             };
-//         };
